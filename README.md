@@ -14,7 +14,7 @@ What I'm currently learning 🧠
 | ![sql](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) |  | | ![terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) | ![postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  | 
 |![bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)   | | |  | ![snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) | 
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-|||
+
 
 ## Check out my website [here](https://sule-resume.streamlit.app/)
 
