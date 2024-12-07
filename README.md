@@ -8,7 +8,7 @@ So far, I've created an end-to-end data engineering project and in my free time 
 
 
 ## Check out my website [here](https://sule-resume.streamlit.app/)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=suleman1412)](https://git.io/streak-stats)
 
 View my pinned projects 👇
 
