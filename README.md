@@ -1,4 +1,4 @@
-yuh
+do everything
 
 
 ## Check out my website [here](https://sule-resume.streamlit.app/)
